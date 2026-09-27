@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">For Bu Jan</string>
+    <string name="welcome_greeting">My Dearest Bu Jan,</string>
+    <string name="welcome_body">Someone who loves you endlessly has left an encrypted secret message just for you…</string>
+    <string name="welcome_invitation">Dare to unlock what your loved one has prepared?</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_install">Install App</string>
+    <string name="system_breached">SECURITY BREACH: LOVE OVERLOAD</string>
+    <string name="love_message">I Love You Bu Jan</string>
+    <string name="target_identity">TARGET: BU JAN</string>
+    <string name="cipher_status">DECRYPTION COMPLETE</string>
+    <string name="instances_counter">INSTANCES DEPLOYED: %1$d</string>
+</resources>

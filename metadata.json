@@ -1,0 +1,6 @@
+{
+  "name": "For Bu Jan",
+  "description": "A heart-shaped romantic reveal leading into a playful hacking terminal flooded with thousands of floating I Love You Bu Jan messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
